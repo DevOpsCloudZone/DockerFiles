@@ -24,7 +24,7 @@ COPY package*.json ./
 RUN npm install --omit=dev
 COPY --from=build /app/dist ./dist
 COPY --chown=node:node . .
-EXPOSE 5000
+EXPOSE 3000
 USER node
 #CMD ["node","index.js"]
 #CMD ["npm","start"]
