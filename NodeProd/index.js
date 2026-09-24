@@ -108,7 +108,7 @@ const server = http.createServer((req, res) => {
         <h1>Node.js Application</h1>
 
         <p class="subtitle">
-            Welcome to my Containerized Node.js application
+            Welcome to my Containerized Node.js Application
         </p>
 
         <div class="info">
