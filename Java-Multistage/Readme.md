@@ -54,7 +54,6 @@
 
 ## Docker Build Flow
 
-```text
 pom.xml
    ↓
 Download Dependencies
