@@ -39,7 +39,7 @@ Flask Application Running
 
 #Multi-Stage Docker Build
 ## Stage 1 – Builder – Creates the Python virtual environment and installs application dependencies.
-##Stage 2 – Runtime – Uses a clean Python image and copies the prepared virtual environment.
+## Stage 2 – Runtime – Uses a clean Python image and copies the prepared virtual environment.
 Application Startup – Runs the Flask application using Python.
 Docker Multi-Stage Concepts
 Builder Stage – Contains the environment required to prepare the Python application.
