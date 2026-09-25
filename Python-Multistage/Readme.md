@@ -116,7 +116,7 @@ Flask Application
 - **Python Runtime Configuration** – Configures the Python environment required to run the application.
 - **Flask Application Containerization** – Packages and runs the Flask application inside a Docker container.
 
-### One important difference from your Java project
+### Comaparision between Java project and Python
 
 Java uses a **Maven lifecycle**:
 
