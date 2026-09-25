@@ -62,7 +62,7 @@ Dockerfile Stages
 - Configures the virtual environment in `PATH`.
 - Starts the Flask application.
 ## Docker Build Flow
-```text
+
 requirements.txt
         ↓
 Create Python Virtual Environment
